@@ -1,4 +1,4 @@
-# Content Management Systemt egy '3 rétegű' híroldallal
+# Content Management Systemt dinamikus front-enddel
 
 Ez munka a Budapesti Corvinus Egyetem `Software Engineering` tárgy évvégi zárthelyi dolgozatán készült. Saját magam terveztem és fejlesztettem.
 
